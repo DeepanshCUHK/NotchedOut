@@ -1,4 +1,4 @@
-### Markdown
+### PRIVACY POLICY
 
 Privacy Policy
 Deepansh Jagga built the Notched Out app as a Freemium app. This SERVICE is provided by Deepansh Jagga at no cost and is intended for use as is.
