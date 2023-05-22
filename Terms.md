@@ -113,6 +113,14 @@ We reserve the right, at Our sole discretion, to modify or replace these Terms a
 
 By continuing to access or use Our Service after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, please stop using the website and the Service.
 
+**Subscription/In-App Purchases (Pro Version)** 
+
+Dynamic Notch is a free app and you can use it as long as you want but there are some locked features which are available with the Pro Version of the app. Pro Version can be purchased as a subscription (Weekly) or a One-Time Purchase through the app as an in-app purchase.
+
+In-App Purchase Policies: Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
+
+Subscriptions can be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. The user will still receive access to all Pro features until the end of current period. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+
 **Contact Us**
 
 If you have any questions about these Terms and Conditions, You can contact us:
