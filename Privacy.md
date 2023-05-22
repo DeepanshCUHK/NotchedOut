@@ -42,7 +42,7 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 This policy is effective as of 2023-05-20
 
 **Subscription/In-App Purchases**
-Pro VERSION:
+Pro Version:
 Dynamic Notch is a free app and you can use it as long as you want but there are some locked features which are available with the Pro Version of the app. Pro Version can be purchased as a subscription (Weekly) or a One-Time Purchase through the app as an in-app purchase.
 
 In-App Purchase Policies:
