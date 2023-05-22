@@ -1,7 +1,7 @@
 
 **Terms and Conditions**
 
-Last updated: May 22, 2023
+Last updated: May 20, 2023
 
 Please read these terms and conditions carefully before using Our Service.
 
