@@ -1,0 +1,302 @@
+[
+    {
+        "categoryString": "all",
+        "shortcuts": [
+            {
+                "name": "Find Gas Stations",
+                "shortDescription": "Find Gas Stations in 1 mile radius",
+                "categoryString": "new",
+                "longDescription": "The shortcut will give you a list of gas stations in a 1 mile radius",
+                "notes": "Add it and then allow permissions",
+                "link": "https://www.icloud.com/shortcuts/f5d0e68414134cbc9714335efadf41e7",
+                "popularity": 98,
+                "likes": 10,
+                "sfSymbolName": "fuelpump"
+            },
+            {
+                "name": "Water Eject",
+                "shortDescription": "Eject water from the device",
+                "categoryString": "popular",
+                "longDescription": "The shortcut will play a high frequency sound to eject water from the device",
+                "notes": "Add it and then allow permissions",
+                "link": "https://www.icloud.com/shortcuts/fdc267b3b1fb4c38959a5af3390f939b",
+                "popularity": 98,
+                "likes": 10,
+                "sfSymbolName": "drop"
+            },
+            {
+                "name": "Where was the photo taken",
+                "shortDescription": "Info about photos",
+                "categoryString": "photos",
+                "longDescription": "Gives you the location and other information about a photo",
+                "notes": "Add it and then allow permissions",
+                "link": "https://www.icloud.com/shortcuts/f98c1c25143d49a8ac5f26e61ee99f7d",
+                "popularity": 98,
+                "likes": 10,
+                "sfSymbolName": "camera"
+            },
+            {
+                "name": "Resize Video",
+                "shortDescription": "Resize with custom dimensions",
+                "categoryString": "video",
+                "longDescription": "Resize a video to a target size",
+                "notes": "Add it and then allow permissions",
+                "link": "https://www.icloud.com/shortcuts/4411c60123314778852ebd3accbd9e50",
+                "popularity": 98,
+                "likes": 10,
+                "sfSymbolName": "video"
+            },
+            {
+                "name": "Save Twitter",
+                "shortDescription": "Save video from Twitter",
+                "categoryString": "video",
+                "longDescription": "Save video from Twitter using the sharesheet option",
+                "notes": "Add it and then allow permissions",
+                "link": "https://www.icloud.com/shortcuts/1d8cb6e3dc8145b3b241f81d8fdb4346",
+                "popularity": 98,
+                "likes": 10,
+                "sfSymbolName": "square.and.arrow.down"
+            },
+            {
+                "name": "Emoji to Image",
+                "shortDescription": "Convert emoji to image",
+                "categoryString": "photos",
+                "longDescription": "Enter an emoji and convert it into an image",
+                "notes": "Add it and then allow permissions",
+                "link": "https://www.icloud.com/shortcuts/4565098fd96b49deb49902d78fb9329b",
+                "popularity": 98,
+                "likes": 10,
+                "sfSymbolName": "face.smiling"
+            },
+            {
+                "name": "Text Last Image",
+                "shortDescription": "Share last image",
+                "categoryString": "new",
+                "longDescription": "Share the last image in your photos through message",
+                "notes": "Add it and then allow permissions",
+                "link": "https://www.icloud.com/shortcuts/b39e2252b59548a6b6ceb941886c02d9",
+                "popularity": 98,
+                "likes": 10,
+                "sfSymbolName": "message"
+            },
+            {
+                "name": "Paste and Translate",
+                "shortDescription": "Translate any text",
+                "categoryString": "new",
+                "longDescription": "Translate the text that you have copied from your clipboard",
+                "notes": "Add it and then allow permissions",
+                "link": "https://www.icloud.com/shortcuts/426d7a8e484a460ca60fb63a292acd0c",
+                "popularity": 98,
+                "likes": 10,
+                "sfSymbolName": "character.bubble"
+            },
+            {
+                "name": "Multiple Alarms",
+                "shortDescription": "Set multiple alarms",
+                "categoryString": "popular",
+                "longDescription": "Set multiple alarms at different intervals",
+                "notes": "Add it and then allow permissions",
+                "link": "https://www.icloud.com/shortcuts/bc5a79148d0248e18de5a0267ddd5533",
+                "popularity": 98,
+                "likes": 10,
+                "sfSymbolName": "character.bubble"
+            }
+        ]
+    },
+    {
+        "categoryString": "new",
+        "shortcuts": [
+            {
+                "name": "Find Gas Stations",
+                "shortDescription": "Find Gas Stations in 1 mile radius",
+                "categoryString": "new",
+                "longDescription": "The shortcut will give you a list of gas stations in a 1 mile radius",
+                "notes": "Add it and then allow permissions",
+                "link": "https://www.icloud.com/shortcuts/f5d0e68414134cbc9714335efadf41e7",
+                "popularity": 98,
+                "likes": 10,
+                "sfSymbolName": "fuelpump"
+            },
+            {
+                "name": "Combine Screenshots",
+                "shortDescription": "Grid view with photos",
+                "categoryString": "new",
+                "longDescription": "Choose between different styles of photo",
+                "notes": "Add it and then allow permissions",
+                "link": "https://www.icloud.com/shortcuts/aa73fd52d5604ef1894070ac901c44d3",
+                "popularity": 98,
+                "likes": 10,
+                "sfSymbolName": "square.grid.2x2"
+            },
+            {
+                "name": "Where was the photo taken",
+                "shortDescription": "Info about photos",
+                "categoryString": "new",
+                "longDescription": "Gives you the location and other information about a photo",
+                "notes": "Add it and then allow permissions",
+                "link": "https://www.icloud.com/shortcuts/f98c1c25143d49a8ac5f26e61ee99f7d",
+                "popularity": 98,
+                "likes": 10,
+                "sfSymbolName": "camera"
+            },
+            {
+                "name": "Resize Video",
+                "shortDescription": "Resize with custom dimensions",
+                "categoryString": "new",
+                "longDescription": "Resize a video to a target size",
+                "notes": "Add it and then allow permissions",
+                "link": "https://www.icloud.com/shortcuts/4411c60123314778852ebd3accbd9e50",
+                "popularity": 98,
+                "likes": 10,
+                "sfSymbolName": "video"
+            },
+            {
+                "name": "Emoji to Image",
+                "shortDescription": "Convert emoji to image",
+                "categoryString": "new",
+                "longDescription": "Enter an emoji and convert it into an image",
+                "notes": "Add it and then allow permissions",
+                "link": "https://www.icloud.com/shortcuts/4565098fd96b49deb49902d78fb9329b",
+                "popularity": 98,
+                "likes": 10,
+                "sfSymbolName": "face.smiling"
+            },
+            {
+                "name": "Text Last Image",
+                "shortDescription": "Share last image",
+                "categoryString": "new",
+                "longDescription": "Share the last image in your photos through message",
+                "notes": "Add it and then allow permissions",
+                "link": "https://www.icloud.com/shortcuts/b39e2252b59548a6b6ceb941886c02d9",
+                "popularity": 98,
+                "likes": 10,
+                "sfSymbolName": "message"
+            },
+            {
+                "name": "Paste and Translate",
+                "shortDescription": "Translate any text",
+                "categoryString": "new",
+                "longDescription": "Translate the text that you have copied from your clipboard",
+                "notes": "Add it and then allow permissions",
+                "link": "https://www.icloud.com/shortcuts/426d7a8e484a460ca60fb63a292acd0c",
+                "popularity": 98,
+                "likes": 10,
+                "sfSymbolName": "character.bubble"
+            }
+        ]
+    },
+    {
+        "categoryString": "popular",
+        "shortcuts": [
+            {
+                "name": "Water Eject",
+                "shortDescription": "Eject water from the device",
+                "categoryString": "popular",
+                "longDescription": "The shortcut will play a high frequency sound to eject water from the device",
+                "notes": "Add it and then allow permissions",
+                "link": "https://www.icloud.com/shortcuts/fdc267b3b1fb4c38959a5af3390f939b",
+                "popularity": 98,
+                "likes": 10,
+                "sfSymbolName": "drop"
+            },
+            {
+                "name": "Where was the photo taken",
+                "shortDescription": "Info about photos",
+                "categoryString": "popular",
+                "longDescription": "Gives you the location and other information about a photo",
+                "notes": "Add it and then allow permissions",
+                "link": "https://www.icloud.com/shortcuts/f98c1c25143d49a8ac5f26e61ee99f7d",
+                "popularity": 98,
+                "likes": 10,
+                "sfSymbolName": "camera"
+            },
+            {
+                "name": "Text Last Image",
+                "shortDescription": "Share last image",
+                "categoryString": "popular",
+                "longDescription": "Share the last image in your photos through message",
+                "notes": "Add it and then allow permissions",
+                "link": "https://www.icloud.com/shortcuts/b39e2252b59548a6b6ceb941886c02d9",
+                "popularity": 98,
+                "likes": 10,
+                "sfSymbolName": "message"
+            },
+            {
+                "name": "Paste and Translate",
+                "shortDescription": "Translate any text",
+                "categoryString": "popular",
+                "longDescription": "Translate the text that you have copied from your clipboard",
+                "notes": "Add it and then allow permissions",
+                "link": "https://www.icloud.com/shortcuts/426d7a8e484a460ca60fb63a292acd0c",
+                "popularity": 98,
+                "likes": 10,
+                "sfSymbolName": "character.bubble"
+            },
+            {
+                "name": "Multiple Alarms",
+                "shortDescription": "Set multiple alarms",
+                "categoryString": "popular",
+                "longDescription": "Set multiple alarms at different intervals",
+                "notes": "Add it and then allow permissions",
+                "link": "https://www.icloud.com/shortcuts/bc5a79148d0248e18de5a0267ddd5533",
+                "popularity": 98,
+                "likes": 10,
+                "sfSymbolName": "character.bubble"
+            }
+        ]
+    },
+    {
+        "categoryString": "photos",
+        "shortcuts": [
+            {
+                "name": "Combine Screenshots",
+                "shortDescription": "Grid view with photos",
+                "categoryString": "photos",
+                "longDescription": "Choose between different styles of photo",
+                "notes": "Add it and then allow permissions",
+                "link": "https://www.icloud.com/shortcuts/aa73fd52d5604ef1894070ac901c44d3",
+                "popularity": 98,
+                "likes": 10,
+                "sfSymbolName": "square.grid.2x2"
+            },
+            {
+                "name": "Where was the photo taken",
+                "shortDescription": "Info about photos",
+                "categoryString": "photos",
+                "longDescription": "Gives you the location and other information about a photo",
+                "notes": "Add it and then allow permissions",
+                "link": "https://www.icloud.com/shortcuts/f98c1c25143d49a8ac5f26e61ee99f7d",
+                "popularity": 98,
+                "likes": 10,
+                "sfSymbolName": "camera"
+            }
+        ]
+    },
+    {
+        "categoryString": "video",
+        "shortcuts": [
+            {
+                "name": "Save Twitter",
+                "shortDescription": "Save video from Twitter",
+                "categoryString": "video",
+                "longDescription": "Save video from Twitter using the sharesheet option",
+                "notes": "Add it and then allow permissions",
+                "link": "https://www.icloud.com/shortcuts/1d8cb6e3dc8145b3b241f81d8fdb4346",
+                "popularity": 98,
+                "likes": 10,
+                "sfSymbolName": "square.and.arrow.down"
+            },
+            {
+                "name": "Resize Video",
+                "shortDescription": "Resize with custom dimensions",
+                "categoryString": "video",
+                "longDescription": "Resize a video to a target size",
+                "notes": "Add it and then allow permissions",
+                "link": "https://www.icloud.com/shortcuts/4411c60123314778852ebd3accbd9e50",
+                "popularity": 98,
+                "likes": 10,
+                "sfSymbolName": "video"
+            }
+        ]
+    }
+]
